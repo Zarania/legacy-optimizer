@@ -1,0 +1,371 @@
+{
+	"PossibleDecks":[
+		{
+			"Name":"Mono Red Prison",
+			"Constraints": [
+				{
+					"Name":"Chalice of the Void",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Tin Fins Depths",
+			"Constraints": [
+				{
+					"Name":"Lion's Eye Diamond",
+					"Count":4
+				},
+				{
+					"Name":"Bayou",
+					"Count":2
+				},
+				{
+					"Name":"Scrubland",
+					"Count":1
+				},
+				{
+					"Name":"Dark Depths",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Death and Taxes",
+			"Constraints": [
+				{
+					"Name":"Plateua",
+					"Count":3
+				},
+				{
+					"Name":"Stoneforge Mystic",
+					"Count":4
+				},
+				{
+					"Name":"Wasteland",
+					"Count":4
+				},
+				{
+					"Name":"Cavern of Souls",
+					"Count":4
+				},
+				{
+					"Name":"Thalia, Guardian of Thraben",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Miracles",
+			"Constraints": [
+				{
+					"Name":"Tundra",
+					"Count":2
+				},
+				{
+					"Name":"Volcanic Island",
+					"Count":2
+				},
+				{
+					"Name":"Force of Will",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Elves",
+			"Constraints": [
+				{
+					"Name":"Bayou",
+					"Count":2
+				}
+			]
+		},
+		{
+			"Name":"Grixis Delver",
+			"Constraints": [
+				{
+					"Name":"Force of Will",
+					"Count":4
+				},
+				{
+					"Name":"Wasteland",
+					"Count":4
+				},
+				{
+					"Name":"Underground Sea",
+					"Count":3
+				},
+				{
+					"Name":"Volcanic Island",
+					"Count":2
+				},
+				{
+					"Name":"Tropical Island",
+					"Count":1
+				}
+			]
+		},
+		{
+			"Name":"Eldrazi",
+			"Constraints": [
+				{
+					"Name":"Wasteland",
+					"Count":4
+				},
+				{
+					"Name":"Chalice of the Void",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Czech Pile",
+			"Constraints": [
+				{
+					"Name":"Underground Sea",
+					"Count":3
+				},
+				{
+					"Name":"Badlands",
+					"Count":1
+				},
+				{
+					"Name":"Bayou",
+					"Count":1
+				},
+				{
+					"Name":"Tropical Island",
+					"Count":1
+				},
+				{
+					"Name":"Volcanic Island",
+					"Count":2
+				},
+				{
+					"Name":"Force of Will",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"4 Color Loam",
+			"Constraints": [
+				{
+					"Name":"Wasteland",
+					"Count":4
+				},
+				{
+					"Name":"Bayou",
+					"Count":2
+				},
+				{
+					"Name":"Badlands",
+					"Count":1
+				},
+				{
+					"Name":"Savannah",
+					"Count":1
+				},
+				{
+					"Name":"Scrubland",
+					"Count":1
+				},
+				{
+					"Name":"Taiga",
+					"Count":1
+				},
+				{
+					"Name":"Chalice of the Void",
+					"Count":4
+				},
+				{
+					"Name":"Mox Diamond",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"UR Delver",
+			"Constraints": [
+				{
+					"Name":"Force of Will",
+					"Count":4
+				},
+				{
+					"Name":"Volcanic Island",
+					"Count":3
+				}
+			]
+		},
+		{
+			"Name":"Bant Deathblade",
+			"Constraints": [
+				{
+					"Name":"Tropical Island",
+					"Count":3
+				},
+				{
+					"Name":"Tundra",
+					"Count":2
+				},
+				{
+					"Name":"Underground Sea",
+					"Count":2
+				},
+				{
+					"Name":"Scrubland",
+					"Count":1
+				},
+				{
+					"Name":"Force of Will",
+					"Count":4
+				},
+				{
+					"Name":"Wasteland",
+					"Count":3
+				},
+				{
+					"Name":"Noble Hierarch",
+					"Count":4
+				},
+				{
+					"Name":"Stoneforge Mystic",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"UW Stoneblade",
+			"Constraints": [
+				{
+					"Name":"Tundra",
+					"Count":3
+				},
+				{
+					"Name":"Stoneforge Mystic",
+					"Count":4
+				},
+				{
+					"Name":"Force of Will",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Maverick",
+			"Constraints": [
+				{
+					"Name":"Scrubland",
+					"Count":1
+				},
+				{
+					"Name":"Savannah",
+					"Count":3
+				},
+				{
+					"Name":"Bayou",
+					"Count":2
+				},
+				{
+					"Name":"Thalia, Guardian of Thraben",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Dredge",
+			"Constraints": [
+				{
+					"Name":"Lion's Eye Diamond",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"Infect",
+			"Constraints": [
+				{
+					"Name":"Tropical Island",
+					"Count":3
+				}
+			]
+		},
+		{
+			"Name":"Ant",
+			"Constraints": [
+				{
+					"Name":"Lion's Eye Diamond",
+					"Count":4
+				},
+				{
+					"Name":"Underground Sea",
+					"Count":2
+				},
+				{
+					"Name":"Volcanic Island",
+					"Count":1
+				},
+				{
+					"Name":"Tropical Island",
+					"Count":1
+				},
+				{
+					"Name":"Badlands",
+					"Count":1
+				}
+			]
+		},
+		{
+			"Name":"Aluren",
+			"Constraints": [
+				{
+					"Name":"Force of Will",
+					"Count":4
+				},
+				{
+					"Name":"Underground Sea",
+					"Count":2
+				},
+				{
+					"Name":"Tropical Island",
+					"Count":2
+				},
+				{
+					"Name":"Bayou",
+					"Count":2
+				}
+			]
+		},
+		{
+			"Name":"Lands",
+			"Constraints": [
+				{
+					"Name":"Taiga",
+					"Count":2
+				},
+				{
+					"Name":"Mox Diamond",
+					"Count":4
+				},
+				{
+					"Name":"Wasteland",
+					"Count":4
+				},
+				{
+					"Name":"Dark Depths",
+					"Count":4
+				}
+			]
+		},
+		{
+			"Name":"BR Reanimator",
+			"Constraints": [
+				{
+					"Name":"Badlands",
+					"Count":3
+				}
+			]
+		},
+	]
+}

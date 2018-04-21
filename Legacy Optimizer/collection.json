@@ -1,0 +1,84 @@
+{
+	"Haves":[
+		{
+			"Name":"Tundra",
+			"Count":4
+		},
+		{
+			"Name":"Scrubland",
+			"Count":4
+		},
+		{
+			"Name":"Plateau",
+			"Count":4
+		},
+		{
+			"Name":"Savannah",
+			"Count":4
+		},
+		{
+			"Name":"Underground Sea",
+			"Count":4
+		},
+		{
+			"Name":"Volcanic Island",
+			"Count":4
+		},
+		{
+			"Name":"Tropical Island",
+			"Count":4
+		},
+		{
+			"Name":"Badlands",
+			"Count":4
+		},
+		{
+			"Name":"Bayou",
+			"Count":4
+		},
+		{
+			"Name":"Taiga",
+			"Count":4
+		},
+		{
+			"Name":"Chalice of the Void",
+			"Count":4
+		},
+		{
+			"Name":"Wasteland",
+			"Count":12
+		},
+		{
+			"Name":"Force of Will",
+			"Count":8
+		},
+		{
+			"Name":"Stoneforge Mystic",
+			"Count":4
+		},
+		{
+			"Name":"Cavern of Souls",
+			"Count":9
+		},
+		{
+			"Name":"Dark Depths",
+			"Count":4
+		},
+		{
+			"Name":"Lion's Eye Diamond",
+			"Count":4
+		},
+		{
+			"Name":"Mox Diamond",
+			"Count":4
+		},
+		{
+			"Name":"Noble Hierarch",
+			"Count":4
+		},
+		{
+			"Name":"Thalia, Guardian of Thraben",
+			"Count":4
+		}
+	]
+}
